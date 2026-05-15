@@ -3,6 +3,7 @@ Unicode 🦊 string
 127.0.0.1
 2001:0db8:85a3:08d3:1319:8a2e:0370:7344
 12:34:56:78:90:ab
+foxforensics.eu
 noreply@foxforensics.eu
 https://foxforensics.eu
 \\fox\forensics\dev.txt
